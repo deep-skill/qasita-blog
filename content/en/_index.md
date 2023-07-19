@@ -1,6 +1,6 @@
 ---
-author: Mark Dumay
-title: Welcome to Hinode!
+author: Jean Pierre Mandujano
+title: Blog de QAsita
 ---
 
-A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+Un espacio para compartir conocimientos y recomendaciones de expertos sobre soluciones del hogar.

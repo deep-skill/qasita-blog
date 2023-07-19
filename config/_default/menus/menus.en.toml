@@ -21,13 +21,13 @@
 
 [[social]]
   name = "GitHub"
-  pre = "<i class=\"fab fa-github fa-2x\"></i>"
+  pre = "<i class=\"fab fa-facebook fa-2x\"></i>"
   url = "https://github.com/"
   weight = 20
 
 [[social]]
   name = "Medium"
-  pre = "<i class=\"fab fa-medium fa-2x\"></i>"
+  pre = "<i class=\"fab fa-instagram fa-2x\"></i>"
   url = "https://medium.com/"
   weight = 30
 
